@@ -1,0 +1,33 @@
+.navbar-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #272727;
+  padding: 20px 60px 20px 60px;
+  width: 910px;
+}
+
+.nav-elements-container {
+  display: flex;
+  width: 100px;
+  justify-content: space-between;
+}
+
+.nav-element {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 14px;
+}
+
+.website-logo {
+  width: 100px;
+}
+
+.logoutBtn {
+  background-color: #6366f1;
+  color: #ffffff;
+  padding: 6px 20px 6px 20px;
+  border-style: none;
+  border-radius: 4px;
+}
